@@ -13,8 +13,8 @@ function Topbar() {
                     <a href="#about" className="logo">Michelle B</a>
                     <div className="itemContainer">
                         <ul>
-                            <li><a href="https://github.com/cupcakesprinkle3" target="_blank"><GitHubIcon className="icon"></GitHubIcon></a></li>
-                            <li><a href="https://www.linkedin.com/in/mlbrinich/" target="_blank"><LinkedInIcon className="icon"></LinkedInIcon></a></li>
+                            <li><a href="https://github.com/cupcakesprinkle3" target="_blank" rel="noreferrer"><GitHubIcon className="icon"></GitHubIcon></a></li>
+                            <li><a href="https://www.linkedin.com/in/mlbrinich/" target="_blank" rel="noreferrer"><LinkedInIcon className="icon"></LinkedInIcon></a></li>
                         </ul>
                     </div>
                 </div>
