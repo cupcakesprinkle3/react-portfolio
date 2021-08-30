@@ -63,5 +63,11 @@ export const fullstackPortfolio = [
         img: "https://user-images.githubusercontent.com/79061264/128788488-07c07123-3c61-45f8-b8d2-9e07e1e56c42.png",
         url: "https://github.com/cupcakesprinkle3/wine-o-210",
     },
+    {
+        id: 9,
+        title: "The Kara-OK-Corral",
+        img: "https://user-images.githubusercontent.com/79061264/131282917-eba4a0b4-99d5-4a78-8da8-9ae562718ada.png",
+        url: "https://the-kara-ok-corral.herokuapp.com/",
+    },
 
 ]
